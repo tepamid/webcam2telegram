@@ -1,0 +1,1 @@
+./sender.out lena.png

@@ -1,0 +1,7 @@
+.telegram_bot
+lib/boost*
+lib/openssl*
+*.ipynb
+*.out
+*.dylib
+settings.json
